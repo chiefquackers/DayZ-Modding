@@ -1,0 +1,447 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Arma 2 Weapons [Remastered]",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "A2Colt1911",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"A2Colt1911_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M9",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2M9_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2Glock17",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2Glock17_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2bizon",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2bizon_magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2HKM5_SD",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2HKM5_SD_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2MicroUzi",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2UZI_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2MicroUziSD",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2UZI_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2LeeEnfield",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2AA12",
+            "MaxPriceThreshold": 3200,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2AA12_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M4SPR",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2M4SPR_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M16A4",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2G36_C",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2AK74S",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2FNFAL",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"A2FNFAL_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M16A4",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2mk17_mag"
+            ],
+            "Variants": [
+			]
+        },
+        {
+            "ClassName": "A2mk17",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2mk17_mag"
+            ],
+            "Variants": [
+				"A2mk17_s"
+			]
+        },
+        {
+            "ClassName": "A2LRRAWM",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2LRRAWM_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M24_Desert",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"A2M14_DMRMAG"
+			],
+            "Variants": [
+				"A2M24_Green"
+			]
+        },
+        {
+            "ClassName": "A2M14_DMR",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2WM110_desert",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"A2WM110_mag"
+			],
+            "Variants": [
+				"A2WM110_black"
+			]
+        },
+        {
+            "ClassName": "A2M16A4",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "DMRScope"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M40A3",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2M40A3_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2AS50",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2AS50_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M107",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2M107_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ammo_50Cal",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M249",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2M249_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M60E4",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2M60E4_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M240",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2M240_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2MK48",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2MK48_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2PKM",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2PKM_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2M32",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "M32_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2AKSGOLD",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2Suppressor"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "A2KSVK",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+                "A2KSVK_Magazine"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "Ammo_12x7mm",
+            "MaxPriceThreshold": 560,
+            "MinPriceThreshold": 160,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [            ],
+            "Variants": []
+        }
+    ]
+}
