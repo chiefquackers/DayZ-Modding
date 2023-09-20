@@ -1,0 +1,130 @@
+{
+    "m_Version": 12,
+    "DisplayName": "SNAFU DMRs",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "SNAFU_CALI_GUN",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },{
+            "ClassName": "SNAFUMk12",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },{
+            "ClassName": "MK18_Gun",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },{
+            "ClassName": "SCAR_Gun",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },{
+            "ClassName": "SNAFU_MK4710Gun",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"SNAFU_MK4716Gun",
+				"SNHK417_Gun"
+			]
+        },{
+            "ClassName": "SNAFU_M76",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },{
+            "ClassName": "SNAFU_SR25_Gun",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },{
+            "ClassName": "SNSA58_Gun",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },{
+            "ClassName": "SNAFU_MK4710Gun",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"SNAFU_MK4716Gun"
+			]
+        },{
+            "ClassName": "SNAFU_MK4710Gun",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"SNAFU_MK4716Gun"
+			]
+        },{
+            "ClassName": "SNAFU_MK4710Gun",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"SNAFU_MK4716Gun"
+			]
+        }
+    ]
+}
