@@ -10,4 +10,4 @@ I will continue to try and update this as more information follows and will help
 
 For those looking for support, head over to my discord and drop a message there
 
-Discord: https://discord.gg/WFYZXFueDZ
+Discord: https://discord.gg/NFBVU5gdz4
