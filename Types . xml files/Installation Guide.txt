@@ -1,0 +1,60 @@
+   _____ _    _ _____ ______ ______ ____  _    _         _____ _  ________ _____   _____ 
+  / ____| |  | |_   _|  ____|  ____/ __ \| |  | |  /\   / ____| |/ /  ____|  __ \ / ____|
+ | |    | |__| | | | | |__  | |__ | |  | | |  | | /  \ | |    | ' /| |__  | |__) | (___  
+ | |    |  __  | | | |  __| |  __|| |  | | |  | |/ /\ \| |    |  < |  __| |  _  / \___ \ 
+ | |____| |  | |_| |_| |____| |   | |__| | |__| / ____ \ |____| . \| |____| | \ \ ____) |
+  \_____|_|  |_|_____|______|_|    \___\_\\____/_/    \_\_____|_|\_\______|_|  \_\_____/ 
+
+
+I have found a useful method to help add mods and keep a clean structure rather than adding files directly to the types.xml file.
+
+First of, there is two methods to begin. 
+
+1. You can either create a mods_ce folder
+2. You can use the expansion_ce folder (If you are using the DayZ Expansion Mod)
+
+Either of these will work. 
+
+Prep Work:
+
+Navigate to the following path
+
+.\DayZ\mpmissions\dayzOffline.chernarusplus\
+
+Here you will create the mods_ce folder or use the expansion_ce folder. 
+
+Create a folder for the mod you are downloading in this instance I will be using BaseBuilding Plus so I will create a bbp folder
+
+Once you have downloaded the mods:
+[Through AMP this will generate the MOD ID as the folder name for example MODID: 2810820431 = ToFu Virtual Storage]
+[Other providers will vary but the installation method stays the same.]
+
+You want to enter the mod folder and look for either the info, assets, or files folder [the one that houses the .xml files]
+once you have this, copy the .xml files to the _ce folder you are using. 
+
+Once down go back to \mpmissions\dayzOffline.chernarusplus and open the cfgeconomycore.xml folder and go to the bottom
+
+You will then need to call the class, it will look like this
+
+	<ce folder="expansion_ce">
+		<file name="expansion_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_events.xml" type="events" />
+	</ce>
+	
+simply rename the files here making note that you will need to add .\<MODFOLDERNAME>\*MODtypes.xml which will look like this
+
+	<ce folder="mods_ce">
+		<file name=".\bbp\BBP_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+		<file name="expansion_events.xml" type="events" />
+	</ce>
+	
+remove the additional lines of code if the files are not present
+
+	<ce folder="mods_ce">
+		<file name=".\bbp\BBP_types.xml" type="types" />
+	</ce>
+	
+I have found this method to increase server performance as it isn't having to search one file for the records or an item and therefore creating its own instance. some mod developers have already adopted this method due to it being agile. 
+

@@ -1,4 +1,4 @@
-# DayZ Expansion Modding
+# DayZ-Modding
 
 
 Useful files and folders for the DayZ Expansion
