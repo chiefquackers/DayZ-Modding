@@ -1,0 +1,4 @@
+<ce folder="expansion_ce">
+		<file name="a2_types.xml" type="types" /> <!-- All Remastered Arma Weapons Pack Items for the server to load -->
+		<file name="a2_spawnabletypes.xml" type="spawnabletypes" /> <!-- Useful if you want the Items to spawn - Remove this line if you want to add these to the trader only -->
+	</ce>

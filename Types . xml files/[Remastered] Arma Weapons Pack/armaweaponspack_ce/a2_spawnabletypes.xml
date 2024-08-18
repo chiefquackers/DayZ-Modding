@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawnabletypes>
+	<!--  Remastered Arma weapons pack  -->
+	<!--Pistols-->
+	<type name="A2Colt1911">
+		<attachments chance="0.60">
+			<item name="A2Colt1911_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2Glock17">
+		<attachments chance="0.60">
+			<item name="A2Glock17_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M9">
+		<attachments chance="0.60">
+			<item name="A2M9_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<!--Rifles-->
+	<type name="A2AK74S">
+		<attachments chance="0.60">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2AKSGOLD">
+		<attachments chance="0.60">
+			<item name="Mag_AKM_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2FNFAL">
+		<attachments chance="0.60">
+			<item name="A2FNFAL_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2G36_C">
+		<attachments chance="0.60">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M4SPR">
+		<attachments chance="0.60">
+			<item name="A2M4SPR_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M16A4">
+		<attachments chance="0.60">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2mk17">
+		<attachments chance="0.60">
+			<item name="A2mk17_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2mk17_s">
+		<attachments chance="0.60">
+			<item name="A2mk17_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2MK16">
+		<attachments chance="0.60">
+			<item name="Mag_STANAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<!--LMGS-->
+	<type name="A2M60E4">
+		<attachments chance="0.60">
+			<item name="A2M60E4_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M240">
+		<attachments chance="0.60">
+			<item name="A2M240_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M249">
+		<attachments chance="0.60">
+			<item name="A2M249_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2MK48">
+		<attachments chance="0.60">
+			<item name="A2MK48_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2PKM">
+		<attachments chance="0.60">
+			<item name="A2PKM_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<!--Shotguns-->
+	<type name="A2AA12">
+		<attachments chance="0.60">
+			<item name="A2AA12_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<!--Smgs-->
+	<type name="A2bizon">
+		<attachments chance="0.60">
+			<item name="A2bizon_magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2HKM5_SD">
+		<attachments chance="0.60">
+			<item name="A2HKM5_SD_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2MicroUziSD">
+		<attachments chance="0.60">
+			<item name="A2UZI_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2MicroUzi">
+		<attachments chance="0.60">
+			<item name="A2UZI_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<!--Snipers-->
+	<type name="A2AS50">
+		<attachments chance="0.60">
+			<item name="A2AS50_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M14_DMR">
+		<attachments chance="0.60">
+			<item name="A2M14_DMRMAG" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2KSVK">
+		<attachments chance="0.60">
+			<item name="A2KSVK_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2LRRAWM">
+		<attachments chance="0.60">
+			<item name="A2LRRAWM_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M40A3">
+		<attachments chance="0.60">
+			<item name="A2M40A3_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2M107">
+		<attachments chance="0.60">
+			<item name="A2M107_Magazine" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2WM110_black">
+		<attachments chance="0.60">
+			<item name="A2WM110_mag" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="A2WM110_desert">
+		<attachments chance="0.60">
+			<item name="A2WM110_mag" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>
