@@ -1,0 +1,3 @@
+	<ce folder="MMG_Gear_ce">
+		<file name="mmg_master.xml" type="types" /> <!-- All Remastered Arma Weapons Pack Items for the server to load -->
+	</ce>
