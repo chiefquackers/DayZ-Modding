@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+
+	<!-- Morty Weapons -->
+	<ce folder="snafu_ce">
+		<file name="SNAFU_types.xml" type="types" />
+		<file name="SNAFU_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
+</economycore>

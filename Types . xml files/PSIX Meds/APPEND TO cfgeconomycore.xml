@@ -1,0 +1,3 @@
+	<ce folder=".\mods/PSIXmeds_ce">
+		<file name="PSIXmeds.xml" type="types" /> <!-- PSIX Medicals - Types Files -->
+	</ce>

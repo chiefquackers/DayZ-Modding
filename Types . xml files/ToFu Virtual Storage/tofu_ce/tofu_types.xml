@@ -1,0 +1,309 @@
+<?xml version="1.0" ?>
+<types>
+    <type name="tofu_vstorage_q_barrel_express">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>28800</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_ammo">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_food">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_base">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_clothing">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_other">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_transport">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_medic">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_event">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_tools">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_weapons">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_drugs">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_donations">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_attachments">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_gardening">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_trading">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_nbc">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_drugexchange">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_ammo_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_food_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_base_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_clothing_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_other_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_transport_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_medic_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_event_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_tools_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_weapons_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_drugs_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_donations_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_attachments_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_gardening_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_trading_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+    <type name="tofu_vstorage_nbc_1000">
+        <nominal>1</nominal>
+        <restock>1800</restock>
+        <lifetime>7200</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+    </type>
+</types>

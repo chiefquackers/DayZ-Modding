@@ -1,0 +1,32 @@
+{
+    "m_Version": 12,
+    "DisplayName": "ToFu Virtual Storage - Specials",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "tofu_vstorage_q_barrel_express",
+            "MaxPriceThreshold": 4,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tofu_vstorage_drugexchange",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 3,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
